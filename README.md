@@ -25,7 +25,7 @@ A PowerShell script to analyze active network connections, extract public IPs, a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YamiNoKen/vt-ip-checker.git
+   git clone https://github.com/YamiNoKen/foreign_IP_Checker.git
    cd vt-ip-checker
 2. Open VT_ip_checker.ps1 in a text editor.
 3. Paste your VirusTotal API key into the $apiKey variable.
