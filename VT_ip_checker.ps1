@@ -1,5 +1,5 @@
 # Your VirusTotal API Key
-$apiKey = "0109c721e13ad188715114c2499b6c49a5f28862d37c65a4d4ab03aea6ebb638"
+$apiKey = "***********************************************************"
 
 # Get netstat output and extract foreign IPs
 $ips = netstat -n | Select-String "TCP" | ForEach-Object {
