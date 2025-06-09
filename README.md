@@ -30,7 +30,7 @@ A PowerShell script to analyze active network connections, extract public IPs, a
 2. Open VT_ip_checker.ps1 in a text editor.
 3. Paste your VirusTotal API key into the $apiKey variable.
 
-🚀 Usage
+## 🚀 Usage
 Run the script from PowerShell:
 .\VT_ip_checker.ps1
 
@@ -40,5 +40,5 @@ It will:
 - Show details from ipinfo.io
 - Show detection counts and reputation score from VirusTotal
 
-📄 License
-This project is licensed under the MIT License.
+## 📄 License
+ This project is licensed under the MIT License.
