@@ -1,4 +1,4 @@
-﻿# VirusTotal IP Reputation Checker
+﻿# IP Reputation Checker
 A PowerShell script to analyze active network connections, extract public IPs, and check their reputation using [VirusTotal](https://www.virustotal.com/) and [ipinfo.io](https://ipinfo.io).
 
 ## 🛠 Features
